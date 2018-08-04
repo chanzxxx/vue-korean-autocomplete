@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://www.npmjs.com/package/vue-korean-autocomplete"><img src="https://img.shields.io/npm/v/vue-korean-autocomplete.svg"></a>
+</p>
+
 # vue-korean-autocomplete
 
 > An autocomplete input component for Korean
