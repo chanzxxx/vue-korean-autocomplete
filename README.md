@@ -12,6 +12,12 @@
 ## Demo
 https://whdckszxxx.github.io/vue-korean-autocomplete
 
+## Install
+
+```bash
+npm install vue-korean-autocomplete --save
+```
+
 ## Build Setup
 
 ``` bash
